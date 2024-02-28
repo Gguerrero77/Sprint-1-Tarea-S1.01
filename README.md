@@ -1,0 +1,1 @@
+Se trata de ejercicios sencillos, nociones básicas y componentes claves en el diseño de bases de datos relacionales, que se han realizado usando MySQL WorkBench, como parte de la formación en la especialización de Análisis de Datos de Barcelona Activa.
